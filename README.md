@@ -1,10 +1,9 @@
 # Hey, I'm Ryan
-- A student at the University of Michigan :part_alternation_mark:, majoring in Robotics and Computer Science
-- Enjoys robotics :robot: and software development
-- Grew up in Taipei, Taiwan and currently lives in Ann Arbor, Michigan
-- Working on robot navigation & simulation @ University of Michigan's Autonomous Robotics Vehicle Team
-- Ex. Captain of VEX Robotics Team 4253B
-- Enjoys novel translation, Crusader Kings, and piano in my free time.
+- Undergrad at the University of Michigan :part_alternation_mark:, majoring in Robotics and Computer Science
+- Interested in Robotics (Planning, Control, CV) and Low-Level Programming (Embedded, Firmware, Driver)
+- Competitive Robotics Enthusiast - VEX Robotics alum (4253B), currently navigation at Michigan's Autonomous Robotics Vehicle Team
+- Loves learning about Modern C++, design patterns, and writing clean and readable code
+- Enjoys translation, video games (Rimworld, Elden Ring, Minecraft, Crusader Kings), board games, anime, and more
 
 ## Languages & Technology :computer:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
