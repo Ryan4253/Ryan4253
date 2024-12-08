@@ -1,25 +1,12 @@
 # Hey, I'm Ryan
-- Undergrad at the University of Michigan :part_alternation_mark:, majoring in Robotics and Computer Science
-- Interested in Robotics (Planning, Control, CV) and Low-Level Programming (Embedded, Firmware, Driver)
-- Competitive Robotics Enthusiast - VEX Robotics alum (4253B), currently navigation at Michigan's Autonomous Robotics Vehicle Team
-- Loves learning about Modern C++, design patterns, and writing clean and readable code
-- Enjoys translation, video games (Rimworld, Elden Ring, Minecraft, Crusader Kings), board games, anime, and more
+- I like Modern C++, Robotics, and Low-Level Programming
 
 ## Languages & Technology :computer:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Contact me :calling:
 <p align="left">
